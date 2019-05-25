@@ -1,6 +1,6 @@
 # The Programmer's Oath
 
-- [中文版](README_CN.md)
+- [English version](README.md)
 
 ------
 
