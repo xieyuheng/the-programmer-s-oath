@@ -1,10 +1,9 @@
 # The Programmer's Oath
 
 - [中文版](README_CN.md)
+- [Original Blog](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
 
 ------
-
-- [Original Blog](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
 
 In order to defend and preserve the honor of the profession of computer programmers,  
 I Promise that, to the best of my ability and judgement:
