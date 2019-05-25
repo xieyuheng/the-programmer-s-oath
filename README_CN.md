@@ -27,3 +27,4 @@
 ### 视频
 
 - [The Programmer's Oath from Uncle Bob Martin](https://www.youtube.com/watch?v=2xSjD8PXjFg&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD)
+- [Uncle Bob Martin - The Craftsman's Oath - SCLConf 2018](https://www.youtube.com/watch?v=17vTLSkXTOo)
